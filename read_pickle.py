@@ -22,3 +22,7 @@ import pickle
 
 # for i in submission_comments:
 # 	print(i)
+
+fh = open("subreddit_data/sentiment_results.py", "rb")
+sentiment_results = pickle.load(fh)
+print(sentiment_results)
