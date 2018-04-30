@@ -1,6 +1,6 @@
 # nba_sentiment 🏀
 
-nba_sentiment is a sentiment analysis project written in python that inspects every comment posted on an [NBA subreddit](https://www.reddit.com/r/nba/) from October 16, 2017 through March 31, 2018. At the end you can see which NBA subreddits were the most positive or negative.
+nba_sentiment is a sentiment analysis project written in python that inspects every comment posted on an [NBA subreddit](https://www.reddit.com/r/nba/) from October 16, 2017 through March 31, 2018. At the end you can see which NBA subreddits were the most positive or negative. Made by [Mary-Lou Watkinson](https://twitter.com/Mary_Lou_W) and [Ryan Serpico](https://twitter.com/zuckerco).
 
 ## Requirements
 
